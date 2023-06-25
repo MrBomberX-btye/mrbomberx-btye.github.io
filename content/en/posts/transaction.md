@@ -1,5 +1,5 @@
 ---
-title:  "Trigger Management in T-SQL - Part 1"
+title:  "Transaction Processing and Concurrency control in T-SQL"
 date:  2023-06-18
 draft:  false
 enableToc: true
@@ -7,7 +7,7 @@ enableTocContent: true
 description: "I talk about AI and NLP in the context of my graduation project."
 tags:
 - misc
-image: "images/go/concurrency.png"
+image: "images/go/transaction.png"
 ---
 
 # Introduction
