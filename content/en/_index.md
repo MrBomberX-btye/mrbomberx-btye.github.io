@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - the land of weird machines
+      - Bits and Bytes of Backend and Cloud Native Developement
     subtitle:
-      - pwn, assembly and shenanigans.
+      - Distributed Systems, Go, Kubernetes and Anything in between.
     titleColor: 
     titleShadow: true
     titleFontSize: 44

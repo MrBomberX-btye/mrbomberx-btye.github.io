@@ -1,12 +1,15 @@
 ---
-layout: post
-title: Transcations & Concurrency control - Theory and Practice!
-subtitle: Learn more about the nature of transactions and how to controll them!
-cover-img: /assets/img/cover.jfif
-thumbnail-img: /assets/img/tr.png
-share-img: /assets/img/tr.png
-tags: [sql, database]
+title:  "Trigger Management in T-SQL - Part 1"
+date:  2023-06-18
+draft:  false
+enableToc: true
+enableTocContent: true
+description: "I talk about AI and NLP in the context of my graduation project."
+tags:
+- misc
+image: "images/go/concurrency.png"
 ---
+
 # Introduction
 
 Transaction processing is not a new concept, when I was first introduced to it, I didn't get it back then,  because of the lack of practical examples and poorly long articles.
