@@ -7,7 +7,7 @@ enableTocContent: true
 description: "I talk about AI and NLP in the context of my graduation project."
 tags:
 - misc
-image: "images/go/concurrency.png"
+image: "images/db/error.jpg"
 ---
 
 
