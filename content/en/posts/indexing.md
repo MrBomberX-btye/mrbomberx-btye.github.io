@@ -1,5 +1,5 @@
 ---
-title:  "Transaction Processing and Concurrency control in T-SQL"
+title:  "Query Optimization: Tunning Indexes for better performance."
 date:  2023-06-18
 draft:  false
 enableToc: true
