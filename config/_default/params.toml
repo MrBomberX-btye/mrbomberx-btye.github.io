@@ -92,9 +92,9 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "Yusuf Hegazy"
-email = "me@hegz.me"
-whoami = "ECE Senior Student | Security Researcher"
+myname = "Yousef Meska"
+email = "yousefmeska123@gmail.com"
+whoami = "Software Engineer"
 bioImageUrl = "images/whoami/avatar.jpg"
 useGravatar = false
 location = "Cairo, Egypt"
