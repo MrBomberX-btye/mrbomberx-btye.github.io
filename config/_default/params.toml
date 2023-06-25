@@ -1,4 +1,4 @@
-logoText = "land of weird machines"
+logoText = "MrBomber0x001"
 logoType = "short"                  # long, short
 description = ""
 custom_css = []
@@ -99,7 +99,6 @@ bioImageUrl = "images/me.jpg"
 useGravatar = false
 location = "Cairo, Egypt"
 organization = ""
-link = "https://hegz.me"
 
 # sidebar
 enableBio = true
