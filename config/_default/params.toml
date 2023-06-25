@@ -4,7 +4,7 @@ description = ""
 custom_css = []
 custom_js = []
 useFaviconGenerator = true          # https://www.favicon-generator.org/
-meta_image = "images/bongocat.png"
+meta_image = "images/me.png"
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]

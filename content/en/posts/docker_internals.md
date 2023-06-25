@@ -1,5 +1,5 @@
 ---
-title:  "Docker Internals - Definitive Guide to Linux Kernel Primitives: Cgroups, Namespaces"
+title:  "Query Optimization: Tunning indexes for better performance."
 date:  2023-06-18
 draft:  false
 enableToc: true
