@@ -27,7 +27,7 @@ header:
     title:
       - Bits and Bytes of Backend and Cloud Native Developement
     subtitle:
-      - Distributed Systems, Go, Kubernetes and Anything in between.
+      - Distributed Systems, Go, Kubernetes and Everything in between.
     titleColor: 
     titleShadow: true
     titleFontSize: 44
