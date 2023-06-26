@@ -4,7 +4,7 @@ date:  2023-06-18
 draft:  false
 enableToc: true
 enableTocContent: true
-description: "I talk about AI and NLP in the context of my graduation project."
+description: "I talk about transactions in general and in T-SQL along with concurrency control"
 tags:
 - misc
 image: "images/db/transaction.png"

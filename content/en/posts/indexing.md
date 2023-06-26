@@ -4,7 +4,7 @@ date:  2023-06-18
 draft:  false
 enableToc: true
 enableTocContent: true
-description: "I talk about AI and NLP in the context of my graduation project."
+description: "Digging into Database indexing and how to tune them for better performance."
 tags:
 - misc
 image: "images/db/indexing.png"
