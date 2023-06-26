@@ -31,7 +31,7 @@ header:
     titleColor: 
     titleShadow: true
     titleFontSize: 44
-    subtitleColor: 
+    subtitleColor:  
     subtitleCursive: false
     subtitleFontSize: 18
     spaceBetweenTitleSubtitle: 10

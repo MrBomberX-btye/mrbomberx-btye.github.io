@@ -2,6 +2,7 @@
 title: "الإدمان تحت المجهر - نظرة أعمق"
 date: 2019-12-19T12:00:06+09:00
 description: "محاولة أعمق لفهم الادمان عن قرب"
+authorImage: ../images/me.jpg
 draft: false
 hideToc: false
 enableToc: true
