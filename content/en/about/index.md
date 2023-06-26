@@ -1,7 +1,9 @@
 ---
-layout: page
-title: About me
-subtitle: 
+title:  "$ whoami"
+description:  "about me"
+enableToc: true
+type:  "about"
+date:  "2022-11-01"
 ---
 
 ## Who Am I
