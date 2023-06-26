@@ -11,7 +11,7 @@ date:  "2022-11-01"
 Hola 👋, I am Yousef, A
 I'm Yousef, a Pragmatic Software Engineer obsessed with Javascript, highly focused on the performance of web applications. <br/>
 
-{{<img src="/images/me.jpg" alt="my image" width="50%" height="50%" style="float: left; margin: 10px;"/>}}
+<img src="/images/me.jpg" alt="my image" width="50%" height="50%" style="float: left; margin: 10px;"/>
 
 With +2 experience building resilient products on top of NodeJs and Typescript
 
