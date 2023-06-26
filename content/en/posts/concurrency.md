@@ -4,7 +4,7 @@ date:  2023-06-18
 draft:  false
 enableToc: true
 enableTocContent: true
-description: "I talk about AI and NLP in the context of my graduation project."
+description: "I talk about Concurrecny in Go and How the Go's runtime scheduler handles it."
 tags:
 - misc
 image: "images/go/concurrency.png"
