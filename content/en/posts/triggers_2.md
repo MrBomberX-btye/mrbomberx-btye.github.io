@@ -1,10 +1,10 @@
 ---
-title:  "Trigger Management in T-SQL - Part 2"
+title:  "Triggers in T-SQL - Part 2: Limitations and Use Cases"
 date:  2023-06-18
 draft:  false
 enableToc: true
 enableTocContent: true
-description: "I talk about AI and NLP in the context of my graduation project."
+description: "In this part, I talk about the limitation of triggers and use cases."
 tags:
 - misc
 image: "images/db/trigger.jpg"

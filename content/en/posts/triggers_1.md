@@ -1,10 +1,10 @@
 ---
-title:  "Trigger Management in T-SQL - Part 1"
+title:  "Trigger in T-SQL - Part 1: Introduction"
 date:  2023-06-18
 draft:  false
 enableToc: true
 enableTocContent: true
-description: "I talk about AI and NLP in the context of my graduation project."
+description: "In this part I talk about DML and DDL Triggers in T-SQL."
 tags:
 - misc
 image: "images/db/trigger.jpg"

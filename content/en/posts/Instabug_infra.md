@@ -1,1 +1,0 @@
-## Instabug Infrastructure Intern Challenge
