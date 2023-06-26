@@ -6,7 +6,7 @@ enableToc: true
 enableTocContent: true
 description: "I talk about Concurrecny in Go and How the Go's runtime scheduler handles it."
 tags:
-- misc
+- go
 image: "images/go/concurrency.png"
 ---
 

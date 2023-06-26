@@ -6,7 +6,8 @@ enableToc: true
 enableTocContent: true
 description: "I talk the internals of Docker and how docker leverage linux kernel primitives to make containerization an easy process"
 tags:
-- misc
+- docker
+- devops
 image: "images/docker/docker_internals.png"
 ---
 

@@ -6,7 +6,7 @@ enableToc: true
 enableTocContent: true
 description: "In this part I talk about DML and DDL Triggers in T-SQL."
 tags:
-- misc
+- db
 image: "images/db/trigger.jpg"
 ---
 

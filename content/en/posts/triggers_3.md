@@ -6,7 +6,7 @@ enableToc: true
 enableTocContent: true
 description: "In this part I talk about management options of triggers and how to optimize them."
 tags:
-- misc
+- db
 image: "images/db/trigger.jpg"
 ---
 

@@ -6,7 +6,7 @@ enableToc: true
 enableTocContent: true
 description: "I talk about transactions in general and in T-SQL along with concurrency control"
 tags:
-- misc
+- db
 image: "images/db/transaction.png"
 ---
 

@@ -6,7 +6,7 @@ enableToc: true
 enableTocContent: true
 description: "Digging into Database indexing and how to tune them for better performance."
 tags:
-- misc
+- db
 image: "images/db/indexing.png"
 ---
 

@@ -6,7 +6,7 @@ enableToc: true
 enableTocContent: true
 description: "In this part, I talk about the limitation of triggers and use cases."
 tags:
-- misc
+- db
 image: "images/db/trigger.jpg"
 ---
 

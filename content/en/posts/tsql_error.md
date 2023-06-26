@@ -6,7 +6,7 @@ enableToc: true
 enableTocContent: true
 description: "I talk about handling errors effectively in T-SQL"
 tags:
-- misc
+- db
 image: "images/db/error.jpg"
 ---
 
