@@ -10,7 +10,7 @@ tags:
 image: "images/go/concurrency.png"
 ---
 
-{{< featuredImage />}}
+{{< featuredImage >}}
 
 ## Table of contents
 
