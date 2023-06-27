@@ -239,8 +239,8 @@ username = ""
 name = "twitter"
 
 [[footerLinks]]
-name = ""
-link = ""
+name = "المدونه العربية"
+link = "https://mrbomberx-btye.github.io/ar/"
 [[footerLinks]]
 name = ""
 link = ""
