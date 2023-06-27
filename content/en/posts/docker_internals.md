@@ -1,7 +1,7 @@
 ---
 title:  "Docker Internals - Guide to Linux Kernel Primitives: Namespaces, Cgroups and UnionFS"
 date:  2023-06-18
-draft:  false
+draft:  true
 enableToc: true
 enableTocContent: true
 description: "I talk the internals of Docker and how docker leverage linux kernel primitives to make containerization an easy process"
