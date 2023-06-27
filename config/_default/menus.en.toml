@@ -9,3 +9,9 @@ identifier = "writeups"
 name = "Writeups"
 url = "writeups"
 weight = 2
+
+[[main]]
+identifier = "gallery"
+name = "Gallery"
+url = "gallery"
+weight = 3
