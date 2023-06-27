@@ -1,8 +1,8 @@
 ---
 title: "الإدمان تحت المجهر - نظرة أعمق"
-date: 2023-6-1T12:00:06+09:00
+date: 2023-06-14T12:00:06+09:00
 description: "محاولة أعمق لفهم الادمان عن قرب"
-authorImage: images/me.jpg
+authorImage: ../images/me.jpg
 draft: false
 hideToc: false
 enableToc: true
