@@ -10,6 +10,8 @@ tags:
 image: "images/db/trigger.jpg"
 ---
 
+{{< featuredImage >}}
+
 # Intro
 
 In this part I will be talking about:

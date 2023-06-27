@@ -11,6 +11,8 @@ tags:
 image: "images/docker/docker_internals.png"
 ---
 
+{{ < featuredImage >}}
+
 # Docker Internals
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674997774330/f1b20304-0c03-4192-b59c-0e0e4b27e924.jpeg)

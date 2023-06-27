@@ -10,7 +10,7 @@ tags:
 image: "images/db/error.jpg"
 ---
 
-
+{{< featuredImage >}}
 
 ## Introduction
 

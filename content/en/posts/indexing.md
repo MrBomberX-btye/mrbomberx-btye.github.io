@@ -10,7 +10,7 @@ tags:
 image: "images/db/indexing.png"
 ---
 
-
+{{< featuredImage >}}
 
 ## Intro
 

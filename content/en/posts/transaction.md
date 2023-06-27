@@ -10,6 +10,8 @@ tags:
 image: "images/db/transaction.png"
 ---
 
+{{< featuredImage >}}
+
 # Introduction
 
 Transaction processing is not a new concept, when I was first introduced to it, I didn't get it back then,  because of the lack of practical examples and poorly long articles.

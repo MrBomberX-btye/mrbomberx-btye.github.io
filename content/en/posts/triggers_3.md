@@ -10,6 +10,7 @@ tags:
 image: "images/db/trigger.jpg"
 ---
 
+{{< featuredImage >}}
 
 ## Trigger Management and Optimization
 
