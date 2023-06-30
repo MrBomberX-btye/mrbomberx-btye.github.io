@@ -8,6 +8,30 @@ date:  "2022-11-01"
 
 ## Tools and Softwares
 
+### Learning and Productivity
+
+- Obsidian -> All-in-one note taking
+- Logseq -> (❌)
+- Adobe Acrobat reader -> pdf reader
+- Foxit Reader -> pdf reader
+- Sticky Notes -> quick notes
+- Alarms & clock -> Todo
+- Todiost (❌)
+
+### Development
+
+- Minikube => k8s local cluster
+- Docker Desktop
+- pgAdmin
+- Postman
+- Mongo Compass
+- Github Desktop (Rarely used) (❌)
+- VBox
+- RedisInsight-v2
+- DBeaver
+- vscode
+- AWS cli-v2
+
 ### Extensions
 
 Those are my chrome extensions
