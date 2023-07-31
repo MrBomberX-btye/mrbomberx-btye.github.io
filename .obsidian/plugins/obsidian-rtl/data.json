@@ -1,0 +1,11 @@
+{
+  "fileDirections": {
+    "content/ar/posts/كتب شهر 7.md": "auto",
+    "content/ar/posts/belief.rtl.md": "auto"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
