@@ -1,0 +1,13 @@
+{
+  "fileDirections": {
+    "ar/posts/addiction.rtl.md": "rtl",
+    "ar/posts/belief.rtl.md": "rtl",
+    "ar/posts/books.rtl.md": "rtl",
+    "ar/posts/دوائر التهميش.rtl.md": "rtl"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
