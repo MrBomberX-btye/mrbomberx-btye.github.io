@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md",
-                "mode": "source",
-                "source": false
+                "file": "ar/posts/books.rtl.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md",
+                "file": "ar/posts/books.rtl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md",
+                "file": "ar/posts/books.rtl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md"
+                "file": "ar/posts/books.rtl.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "ae089b2bb287c41c",
   "lastOpenFiles": [
-    "ar/posts/دوائر التهميش.rtl.md",
+    "ar/posts/log.md",
     "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md",
-    "ar/posts/أفكار.md",
     "ar/posts/books.rtl.md",
-    "log.md",
+    "ar/posts/دوائر التهميش.rtl.md",
+    "ar/posts/أفكار.md",
     "ar/posts/book.md",
     "ar/posts/الفتنة الكبري - طه حسين.md",
     "ar/posts/Poetry.md",
