@@ -1,10 +1,10 @@
 logoText = "MESKA"
-logoType = "short"                  # long, short
+logoType = "short"           # long, short
 description = ""
 custom_css = []
 custom_js = []
-useFaviconGenerator = true          # https://www.favicon-generator.org/
-meta_image = "images/me.png"
+useFaviconGenerator = true   # https://www.favicon-generator.org/
+meta_image = "images/me.jpg"
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
