@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/posts/دوائر التهميش.rtl.md",
+                "file": "ar/posts/books.rtl.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc60ce92374bad0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ar/posts/قادة الفكر - طه حسين.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6657505075f12e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ar/posts/الفتنة الكبري - طه حسين.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae089b2bb287c41c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ar/posts/أفكار.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0d4e95f6f2276a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ar/posts/The whale.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/posts/دوائر التهميش.rtl.md",
+                "file": "ar/posts/The whale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/posts/دوائر التهميش.rtl.md",
+                "file": "ar/posts/The whale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/posts/دوائر التهميش.rtl.md"
+                "file": "ar/posts/The whale.md"
               }
             }
           }
@@ -146,10 +195,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90df870b14919f86",
+  "active": "b0d4e95f6f2276a7",
   "lastOpenFiles": [
+    "ar/posts/الفتنة الكبري - طه حسين.md",
+    "ar/posts/أفكار.md",
+    "Untitled.md",
     "ar/posts/books.rtl.md",
+    "ar/posts/The whale.md",
+    "ar/posts/addiction.rtl.md",
+    "en/posts/docker_internals.md",
+    "ar/posts/كتب شهر 7.md",
+    "ar/posts/قادة الفكر - طه حسين.md",
+    "templates/insert an arabic article.md",
     "ar/posts/belief.rtl.md",
-    "ar/posts/addiction.rtl.md"
+    "templates",
+    "ar/posts/دوائر التهميش.rtl.md"
   ]
 }

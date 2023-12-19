@@ -6,7 +6,7 @@ languagedir = "ltr"
 contentdir = "content/en"
 
 [ar]
-title = "المدونه العربيه"
+title = "المدونة العربية"
 languageName = "Arabic"
 weight = 2
 languagedir = "rtl"
