@@ -61,9 +61,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/posts/The whale.md",
-                "mode": "preview",
-                "source": true
+                "file": "ar/posts/كتب شهر 7.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/posts/The whale.md",
+                "file": "ar/posts/كتب شهر 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/posts/The whale.md",
+                "file": "ar/posts/كتب شهر 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/posts/The whale.md"
+                "file": "ar/posts/كتب شهر 7.md"
               }
             }
           }
@@ -197,17 +197,17 @@
   },
   "active": "b0d4e95f6f2276a7",
   "lastOpenFiles": [
+    "ar/posts/قادة الفكر - طه حسين.md",
+    "ar/posts/belief.rtl.md",
     "ar/posts/الفتنة الكبري - طه حسين.md",
     "ar/posts/أفكار.md",
+    "ar/posts/The whale.md",
     "Untitled.md",
     "ar/posts/books.rtl.md",
-    "ar/posts/The whale.md",
     "ar/posts/addiction.rtl.md",
     "en/posts/docker_internals.md",
     "ar/posts/كتب شهر 7.md",
-    "ar/posts/قادة الفكر - طه حسين.md",
     "templates/insert an arabic article.md",
-    "ar/posts/belief.rtl.md",
     "templates",
     "ar/posts/دوائر التهميش.rtl.md"
   ]
