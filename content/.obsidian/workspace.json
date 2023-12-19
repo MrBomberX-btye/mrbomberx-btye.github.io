@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/posts/log.md",
+                "file": "ar/posts/دوائر التهميش.rtl.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/posts/log.md",
+                "file": "ar/posts/دوائر التهميش.rtl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/posts/log.md",
+                "file": "ar/posts/دوائر التهميش.rtl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/posts/log.md"
+                "file": "ar/posts/دوائر التهميش.rtl.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "ae089b2bb287c41c",
   "lastOpenFiles": [
+    "ar/posts/log.md",
     "ar/posts/الفتنة الكبري - طه حسين.md",
     "ar/posts/أفكار.md",
     "ar/posts/The whale.md",
     "ar/posts/Poetry.md",
-    "ar/posts/log.md",
     "ar/posts/books.rtl.md",
     "ar/posts/belief.rtl.md",
     "ar/posts/addiction.rtl.md",
