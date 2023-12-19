@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/posts/books.rtl.md",
-                "mode": "preview",
-                "source": true
+                "file": "ar/posts/الفتنة الكبري - طه حسين.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/posts/books.rtl.md",
+                "file": "ar/posts/الفتنة الكبري - طه حسين.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/posts/books.rtl.md",
+                "file": "ar/posts/الفتنة الكبري - طه حسين.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/posts/books.rtl.md"
+                "file": "ar/posts/الفتنة الكبري - طه حسين.md"
               }
             }
           }
@@ -173,19 +173,20 @@
   },
   "active": "ae089b2bb287c41c",
   "lastOpenFiles": [
-    "ar/posts/log.md",
-    "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md",
-    "ar/posts/books.rtl.md",
-    "ar/posts/دوائر التهميش.rtl.md",
     "ar/posts/أفكار.md",
+    "ar/posts/The whale.md",
+    "ar/posts/Poetry.md",
+    "ar/posts/log.md",
+    "ar/posts/books.rtl.md",
+    "ar/posts/belief.rtl.md",
+    "ar/posts/addiction.rtl.md",
+    "ar/_index.md",
+    "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md",
+    "ar/posts/دوائر التهميش.rtl.md",
     "ar/posts/book.md",
     "ar/posts/الفتنة الكبري - طه حسين.md",
-    "ar/posts/Poetry.md",
     "ar/posts/كتب شهر 7.md",
     "ar/posts/قادة الفكر - طه حسين.md",
-    "ar/posts/belief.rtl.md",
-    "ar/posts/The whale.md",
-    "ar/posts/addiction.rtl.md",
     "en/posts/docker_internals.md",
     "templates/insert an arabic article.md",
     "templates"
