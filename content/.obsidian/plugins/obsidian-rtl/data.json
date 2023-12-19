@@ -9,7 +9,8 @@
     "templates/insert an arabic article.md": "rtl",
     "ar/posts/أفكار.md": "rtl",
     "ar/posts/الفتنة الكبري - طه حسين.md": "rtl",
-    "ar/posts/The whale.md": "rtl"
+    "ar/posts/The whale.md": "rtl",
+    "ar/posts/Poetry.md": "rtl"
   },
   "defaultDirection": "ltr",
   "rememberPerFile": true,
