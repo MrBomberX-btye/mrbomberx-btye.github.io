@@ -4,13 +4,14 @@
     "ar/posts/belief.rtl.md": "rtl",
     "ar/posts/books.rtl.md": "rtl",
     "ar/posts/دوائر التهميش.rtl.md": "rtl",
-    "ar/posts/كتب شهر 7.md": "rtl",
     "ar/posts/قادة الفكر - طه حسين.md": "rtl",
     "templates/insert an arabic article.md": "rtl",
     "ar/posts/أفكار.md": "rtl",
     "ar/posts/الفتنة الكبري - طه حسين.md": "rtl",
     "ar/posts/The whale.md": "rtl",
-    "ar/posts/Poetry.md": "rtl"
+    "ar/posts/Poetry.md": "rtl",
+    "log.md": "rtl",
+    "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md": "rtl"
   },
   "defaultDirection": "ltr",
   "rememberPerFile": true,

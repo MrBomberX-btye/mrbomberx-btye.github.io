@@ -1,9 +1,9 @@
 ---
-title: "قائمة بقراءاتي - تُحدث استمرار"
+title: قائمة بقراءاتي - تُحدث استمرار
 date: 2023-06-27T12:00:06+09:00
-description: "محاولة للتبع عملية القراءة الخاصة بي بالإضافة لبعض التعليقات حولها."
+description: محاولة للتبع عملية القراءة الخاصة بي بالإضافة لبعض التعليقات حولها.
 authorImage: ../images/.jpg
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: false
