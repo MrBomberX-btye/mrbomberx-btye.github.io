@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/posts/أفكار.md",
+                "file": "ar/posts/log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/posts/أفكار.md",
+                "file": "ar/posts/log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/posts/أفكار.md",
+                "file": "ar/posts/log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/posts/أفكار.md"
+                "file": "ar/posts/log.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "ae089b2bb287c41c",
   "lastOpenFiles": [
+    "ar/posts/books.rtl.md",
     "ar/posts/log.md",
-    "ar/posts/الفتنة الكبري - طه حسين.md",
     "ar/posts/أفكار.md",
+    "ar/posts/الفتنة الكبري - طه حسين.md",
     "ar/posts/دوائر التهميش.rtl.md",
     "ar/posts/دوائر التهميش.md",
     "ar/posts/log.rtl.md",
     "ar/posts/The whale.md",
     "ar/posts/Poetry.md",
-    "ar/posts/books.rtl.md",
     "ar/posts/belief.rtl.md",
     "ar/posts/addiction.rtl.md",
     "ar/_index.md",
