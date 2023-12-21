@@ -1,4 +1,7 @@
 [
   "obsidian-rtl",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "table-editor-obsidian",
+  "markdown-table-editor",
+  "obsidian-table-generator"
 ]
