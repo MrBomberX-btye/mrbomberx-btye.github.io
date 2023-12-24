@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/posts/thoughts.md",
+                "file": "ar/posts/Gehad.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/posts/thoughts.md",
+                "file": "ar/posts/Gehad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/posts/thoughts.md",
+                "file": "ar/posts/Gehad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/posts/thoughts.md"
+                "file": "ar/posts/Gehad.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "ae089b2bb287c41c",
   "lastOpenFiles": [
-    "ar/posts/شعر.md",
     "ar/posts/Poetry.md",
+    "ar/posts/Gehad.md",
+    "ar/posts/thoughts.md",
+    "ar/posts/شعر.md",
     "ar/posts/دوائر التهميش.md",
     "en/posts/transaction.md",
     "ar/posts/addiction.rtl.md",
@@ -172,7 +174,6 @@
     "en/posts/concurrency.md",
     "en/posts/_index.md",
     "ar/posts/Reading.md",
-    "ar/posts/thoughts.md",
     "ar/posts/books.rtl.md",
     "ar/posts/الفتنة الكبري - طه حسين.md",
     "ar/posts/دوائر التهميش.rtl.md",
@@ -183,7 +184,6 @@
     "ar/posts/book.md",
     "ar/posts/كتب شهر 7.md",
     "ar/posts/قادة الفكر - طه حسين.md",
-    "templates/insert an arabic article.md",
     "templates"
   ]
 }
