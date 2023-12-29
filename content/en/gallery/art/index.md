@@ -1,5 +1,5 @@
 ---
-title: "Art"
+title: "Art - paintings"
 date: 2023-06-27T04:10:23+03:00
 description: Collection of my fav artworks collected from various artists and painters.
 type: gallery
