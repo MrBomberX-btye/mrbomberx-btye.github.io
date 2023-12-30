@@ -2,7 +2,7 @@
 title: منهج مقترح لحفظ الشعر
 date: 2023-06-27T12:00:06+09:00
 description: منهج مقترح لحفظ الشعر بالإضافة لبعض المصادر المهمه.
-authorImage: ../images/.jpg
+authorImage: ../images/me.jpg
 draft: false
 hideToc: false
 enableToc: true

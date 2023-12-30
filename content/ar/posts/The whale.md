@@ -2,7 +2,7 @@
 title: عن محاربة طواحين الهواء وبعض الحيتان.
 date: 2023-06-27T12:00:06+09:00
 description: 
-authorImage: ../images/.jpg
+authorImage: ../images/me.jpg
 draft: false
 hideToc: false
 enableToc: true
