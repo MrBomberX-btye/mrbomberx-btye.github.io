@@ -1,13 +1,13 @@
 ---
-title:  "Concurrency in Go - A deeper look into Go's runtime scheduler."
-date:  2023-06-18
-draft:  false
+title: Concurrency in Go - A deeper look into Go's runtime scheduler.
+date: 2023-06-18
+draft: false
 enableToc: true
 enableTocContent: true
-description: "I talk about Concurrecny in Go and How the Go's runtime scheduler handles it."
+description: I talk about Concurrecny in Go and How the Go's runtime scheduler handles it.
 tags:
-- go
-image: "images/go/concurrency.png"
+  - go
+image: images/go/concurrency.png
 ---
 
 {{< featuredImage >}}
@@ -117,12 +117,9 @@ top of the operating system, binding the operating system’s threads to logical
 **<mark>Execution steps of goroutines</mark>**
 
 1. As goroutines are created and ready to run, they’re placed in the scheduler’s global run queue.
-
 2. Soon after, they’re assigned to a logical processor and placed into a local run queue for that logical processor.
-
 3. From there, a goroutine waits its turn to be given the logical processor for execution.
 
-<img src="https://cdn.discordapp.com/attachments/1087493279777562734/1087776364180013146/Screenshot_2023-03-20_231224.png" alt="Go's runtime scheduler behaviour" />
 
 Sometimes a running goroutine may need to perform a blocking syscall, such as opening a file.
 
@@ -391,7 +388,7 @@ In the diagram below, Process 2 cannot preempt Resource 1 from Process 1. It wil
 
 1. Circular wait A process is waiting for the resource held by the second process, which is waiting for the resource held by the third process, and so on, till the last process is waiting for a resource held by the first process. Hence, forming a circular chain. (All if waiting)
 
-<img src="<https://www.karanpratapsingh.com/_next/image?url=%2Fstatic%2Fcourses%2Fgo%2Fchapter-IV%2Fconcurrency%2Fcircular-wait.png&w=1920&q=75" align="left" />
+<img src="https://www.karanpratapsingh.com/_next/image?url=%2Fstatic%2Fcourses%2Fgo%2Fchapter-IV%2Fconcurrency%2Fcircular-wait.png&w=1920&q=75" align="left" />
 
 ## Conclusion
 
