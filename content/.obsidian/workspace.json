@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/posts/شعر.md",
+                "file": "ar/posts/thoughts.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/posts/شعر.md",
+                "file": "ar/posts/thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/posts/شعر.md",
+                "file": "ar/posts/thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/posts/شعر.md"
+                "file": "ar/posts/thoughts.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "ae089b2bb287c41c",
   "lastOpenFiles": [
+    "ar/posts/Poetry.md",
+    "ar/posts/شعر.md",
     "ar/posts/دوائر التهميش.md",
     "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md",
     "ar/posts/تعليقات حول الفتنة الكبري لطه حسين.md",
@@ -166,9 +168,7 @@
     "ar/posts/Gehad.md",
     "ar/posts/thoughts.md",
     "ar/posts/The whale.md",
-    "ar/posts/Poetry.md",
     "ar/posts/Reading.md",
-    "ar/posts/شعر.md",
     "ar/posts/قادة الفكر - طه حسين.md",
     "en/writeups/docker_internals.md",
     "en/posts/transaction.md",
