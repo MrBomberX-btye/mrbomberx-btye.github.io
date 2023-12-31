@@ -6,7 +6,7 @@ authorImage: ../images/me.jpg
 draft: false
 hideToc: false
 enableToc: true
-enableTocContent: false
+enableTocContent: true
 authorEmoji: 👺
 image: images/ar/poetry.jpg
 ---

@@ -14,13 +14,13 @@ image: "images/db/transaction.png"
 
 # Introduction
 
-Transaction processing is not a new concept, when I was first introduced to it, I didn't get it back then,  because of the lack of practical examples and poorly long articles.
+Transaction processing is not a new concept, when I was first introduced to it, I didn't fully grasp it back then,  because of lack of practical examples and poorly written long articles.
 
-Recently I've taken a course on Datacamp which focuses heavily on that topic only,  using hands-on exercises and real-world scenarios.
+Recently I've taken a course on `Datacamp` which focuses heavily on that topic only,  using hands-on exercises and real-world scenarios.
 
-So I decided to make a guide for myself and for others who are curious about this huge topic.
+So I decided to make a guide for myself and for others who are curious about this huge and important topic.
 
-I hope you find this topic interesting and learn more about it, check the resources section for more information to dig in.
+I hope you find this writeup interesting and learn more about it, check the resources section for more information to dig in.
 
 ## Table of Content
 

@@ -340,22 +340,16 @@ Concurrency synchronization comes from a paradigm called communicating sequentia
 >
 > Simply take the program apart and make the pieces talk to each other
 
-**Head over to this presentation by the creator of Erlang which discusses this concept in an in-depth details**
-
-%[https://www.infoq.com/presentations/erlang-software-for-a-concurrent-world/]
+**Head over to this [presentation](https://www.infoq.com/presentations/erlang-software-for-a-concurrent-world/) by the creator of Erlang which discusses this concept in an in-depth details**
 
 <img src="https://www.karanpratapsingh.com/_next/image?url=%2Fstatic%2Fcourses%2Fgo%2Fchapter-IV%2Fconcurrency%2Fcsp.png&w=2048&q=75" align="left" alt="Process communication through channel - Credits: Slides"/>
 
 ### **Basic Concepts**
 
 - Data race: two processes or more trying to access the same resources concurrently maybe one was reading while the other was writing
-
 - Race conditions: the timing or order of events affects the correctness of a piece of code
-
 - Deadlock: all processes are blocked while waiting for each other and the program cannot proceed further
-
 - Livelocks: processes that perform concurrent operations, but do nothing to move the state of the program forward
-
 - Starvation: when a process is deprived of necessary resources and unable to complete its functions, might happen because of `deadlock` or `insufficient scheduling algorithms`
 
 #### **Deadlocks**

@@ -1,13 +1,13 @@
 ---
-title:  "Query Optimization: Tunning Indexes for better performance."
-date:  2023-06-18
-draft:  true
+title: "Query Optimization: Tuning Indexes for better performance."
+date: 2023-12-31
+draft: false
 enableToc: true
 enableTocContent: true
-description: "Digging into Database indexing and how to tune them for better performance."
+description: Digging into Database indexing and how to tune them for better performance.
 tags:
-- db
-image: "images/db/indexing.png"
+  - db
+image: images/db/indexing.png
 ---
 
 {{< featuredImage >}}

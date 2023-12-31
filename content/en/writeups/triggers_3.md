@@ -56,7 +56,7 @@ There are some cases when you need just to stop a trigger for a specific period 
 
 A deleted trigger can never be used again unless you recreate the trigger.
 
-📘 **note**
+> [!info]
 > When you need to disable a trigger, you need to explicitly specify the object the trigger is attached to, even if it is a normal table.
 
 ```sql
@@ -153,7 +153,7 @@ ON te.object_id = t.object_id
 LEFT OUTER JOIN sys.objects AS o ON o.object_id = t.parent_id;
 ```
 
-📘 **note**:
+> [!info]
 > the second join is chosen to be a `LEFT` join because database-level triggers do not appear as attached to an object.
 
 In real-world you'll not use those views in isolation, they usually combined together to get a useful information

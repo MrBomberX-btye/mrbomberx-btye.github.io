@@ -84,7 +84,6 @@ but this option is not the most common one, it's rarely used
 ## Triggers best practice
 
 - Make sure your database is well-documented
-
 - keep your trigger logic simple
 - avoid overusing triggers
 
@@ -115,7 +114,7 @@ FROM sys.server_triggers
 ORDER BY TriggerName;
 ```
 
-using OBJECT_DEFINITION
+using `OBJECT_DEFINITION`
 
 ```sql
 -- Gather information about database triggers
@@ -346,7 +345,6 @@ FOR DDL_TABLE_VIEW_EVENTS
 AS
 INSERT INTO [DatabaseAudit] ([EventType], [Database], [Object], [UserAccount]. [Query], [EventTime])
 SELECT 
-EVENTDATA().value('/EVENT_INSTANCE/EventType)[1]', 'NAVCHAR(50)
-)
+EVENTDATA().value('/EVENT_INSTANCE/EventType)[1]', 'NAVCHAR(50)')
 
 ```
