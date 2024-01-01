@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/writeups/indexing.md",
+                "file": "ar/posts/thoughts.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/writeups/indexing.md",
+                "file": "ar/posts/thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/writeups/indexing.md",
+                "file": "ar/posts/thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/writeups/indexing.md"
+                "file": "ar/posts/thoughts.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "db70a6da283924ce",
   "lastOpenFiles": [
-    "en/writeups/Database Indexes.md",
+    "en/writeups/Distributed System Notes.md",
     "en/writeups/indexing.md",
+    "en/writeups/Database Indexes.md",
     "en/writeups/docker_internals.md",
     "en/writeups/concurrency.md",
     "en/writeups/transaction.md",
@@ -198,7 +199,6 @@
     "en/posts/tsql_error.md",
     "en/posts/triggers_3.md",
     "en/posts/triggers_2.md",
-    "en/posts/indexing.md",
     "templates"
   ]
 }
