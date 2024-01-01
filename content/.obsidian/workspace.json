@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/posts/reading-log.md",
+                "file": "en/writeups/Distributed System Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/posts/reading-log.md",
+                "file": "en/writeups/Distributed System Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/posts/reading-log.md",
+                "file": "en/writeups/Distributed System Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/posts/reading-log.md"
+                "file": "en/writeups/Distributed System Notes.md"
               }
             }
           },
@@ -173,28 +173,28 @@
   },
   "active": "db70a6da283924ce",
   "lastOpenFiles": [
-    "ar/posts/thoughts.md",
+    "en/writeups/docker_internals.md",
     "en/writeups/Distributed System Notes.md",
+    "en/writeups/transaction.md",
+    "ar/posts/قادة الفكر - طه حسين.md",
+    "ar/posts/عن أبي العلاء المعري ورسالة الغفران.md",
+    "ar/posts/شوبنهاور وفن العيش الحكيم.md",
+    "ar/posts/دوائر التهميش.md",
+    "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md",
+    "ar/posts/تعليقات حول الفتنة الكبري لطه حسين.md",
+    "ar/posts/reading-log.md",
+    "ar/posts/thoughts.md",
     "en/writeups/indexing.md",
     "en/writeups/Database Indexes.md",
-    "en/writeups/docker_internals.md",
     "en/writeups/concurrency.md",
-    "en/writeups/transaction.md",
     "en/writeups/triggers_3.md",
     "en/writeups/triggers_2.md",
     "ar/posts/poetry-plan.md",
     "ar/posts/The whale.md",
     "ar/posts/Gehad.md",
-    "ar/posts/reading-log.md",
-    "ar/posts/تعليقات حول الفتنة الكبري لطه حسين.md",
-    "ar/posts/جذور القلق النفسي - نظرة أعمق لأسباب الذعر وكيفية إدارته..md",
     "ar/posts/شعر.md",
-    "ar/posts/شوبنهاور وفن العيش الحكيم.md",
-    "ar/posts/عن أبي العلاء المعري ورسالة الغفران.md",
-    "ar/posts/قادة الفكر - طه حسين.md",
     "ar/posts/addiction.rtl.md",
     "ar/posts/belief.rtl.md",
-    "ar/posts/دوائر التهميش.md",
     "en/posts/transaction.md",
     "en/posts/tsql_error.md",
     "en/posts/triggers_3.md",

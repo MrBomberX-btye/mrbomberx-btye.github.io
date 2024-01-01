@@ -89,7 +89,7 @@ COMMIT TRAN;
 **Implicitly** <br>
 MS SQL Server automatically commits the transaction at the end of each individual statement, in case you didn't specify this explicitly.
 
-we can change this behavior by changing the session option [IMPLICIT_TRANSACTION] to ON, by doing so, we don't need to specify the beginning of transaction, but we need to specify the end of the transaction either by committing it or rollbacking it.
+we can change this behavior by changing the session option `[IMPLICIT_TRANSACTION`  to ON, by doing so, we don't need to specify the beginning of transaction, but we need to specify the end of the transaction either by committing it or rollbacking it.
 
 ### Transaction properties
 
