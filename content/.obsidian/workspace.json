@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/posts/thoughts.md",
+                "file": "ar/posts/reading-log.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/posts/thoughts.md",
+                "file": "ar/posts/reading-log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/posts/thoughts.md",
+                "file": "ar/posts/reading-log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/posts/thoughts.md"
+                "file": "ar/posts/reading-log.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "db70a6da283924ce",
   "lastOpenFiles": [
+    "ar/posts/thoughts.md",
     "en/writeups/Distributed System Notes.md",
     "en/writeups/indexing.md",
     "en/writeups/Database Indexes.md",
@@ -183,7 +184,6 @@
     "en/writeups/triggers_2.md",
     "ar/posts/poetry-plan.md",
     "ar/posts/The whale.md",
-    "ar/posts/thoughts.md",
     "ar/posts/Gehad.md",
     "ar/posts/reading-log.md",
     "ar/posts/تعليقات حول الفتنة الكبري لطه حسين.md",
